@@ -9,7 +9,7 @@ import os
 import subprocess
 import paramiko 
 
-TotalRetryTimes = 3
+TotalRetryTimes = 2
 
 
 
